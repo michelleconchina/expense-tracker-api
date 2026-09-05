@@ -6,7 +6,7 @@ ASP.NET Core Web API backend for the [Daily Expense Tracker](https://github.com/
 
 - ASP.NET Core Web API (.NET 10)
 - Swashbuckle (Swagger UI)
-- EF Core + SQLite (coming in Phase 2)
+- EF Core + SQLite
 
 ## Running locally
 
